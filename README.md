@@ -1,9 +1,5 @@
 # SmartCane: A Vision-Guided Navigation Aid for Visually Impaired Users
 
-**Khawaja Faiza Qaisar – 217948233**
-**Tran Tran – 220168829**
-**Richard Balroop – 216906349**
-
 ## Overview
 
 SmartCane is an assistive navigation prototype designed to help visually impaired users detect obstacles before physical contact occurs.
